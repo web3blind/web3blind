@@ -12,7 +12,7 @@ I care about software that works in the real world: accessible with screen reade
 - Public website: [web3blind.xyz](https://web3blind.xyz)
 - Blog in Russian: [Blind developer about AI and accessibility](https://vk.ru/blind_dev)
 - X/Twitter: [@Denis_skripnik](https://x.com/Denis_skripnik)
-- Email: [deniska299@gmail.com](mailto:deniska299@gmail.com)
+- Telegram contact bot: [@blind_dev_contact_bot](https://t.me/blind_dev_contact_bot)
 
 ## Accessibility and audit tools
 
