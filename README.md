@@ -1,14 +1,14 @@
 # Denis Skripnik — web3blind
 
-Blind developer building AI agents, accessibility tools, Telegram bots, and Web3 automation.
+I am a blind developer working on AI agents, accessibility tools, Telegram bots, and Web3 automation.
 
-I care about software that works in the real world: accessible with screen readers, useful for automation, and clear enough for humans and AI agents to operate.
+I care about software that works outside the demo: usable with a screen reader, easy to automate, and clear enough for both people and AI agents.
 
 ## About me
 
 - Blind programmer and accessibility-focused builder.
-- Creator of tools around AI agents, MCP/API workflows, Telegram automation, and Web3 experiments.
-- I test products with screen readers in mind and try to make accessibility a default requirement, not an afterthought.
+- I build tools around AI agents, MCP/API workflows, Telegram automation, and Web3 experiments.
+- I test products with screen readers and try to make accessibility a basic requirement, not a late fix.
 - Public website: [web3blind.xyz](https://web3blind.xyz)
 - Blog in Russian: [Blind developer about AI and accessibility](https://vk.ru/blind_dev)
 - X/Twitter: [@Denis_skripnik](https://x.com/Denis_skripnik)
@@ -16,18 +16,18 @@ I care about software that works in the real world: accessible with screen reade
 
 ## Accessibility and audit tools
 
-- [Accessibility Auditor](https://github.com/web3blind/accessibility-auditor) — WCAG 2.1 website audit service with x402 pay-per-use support, built by a blind developer for blind and low-vision users.
-- [Accessibility Auditor Skill](https://github.com/web3blind/accessibility-auditor-skill) — Hermes AI skill for structured accessibility audits of websites, GitHub repositories, and app source code. Covers WCAG 2.1, GOST R 52872-2019, screen reader checks, and practical remediation advice.
+- [Accessibility Auditor](https://github.com/web3blind/accessibility-auditor) — WCAG 2.1 website audit service with x402 pay-per-use support, built from a blind developer's point of view.
+- [Accessibility Auditor Skill](https://github.com/web3blind/accessibility-auditor-skill) — Hermes AI skill for structured accessibility audits of websites, GitHub repositories, and app source code. It covers WCAG 2.1, GOST R 52872-2019, screen reader checks, and practical remediation advice.
 - [OG Accessibility Checker](https://github.com/web3blind/og-accessibility-checker) — verifiable WCAG 2.1 accessibility analysis using OpenGradient TEE LLM inference with on-chain proof of inference.
 
 ## Skills for AI agents
 
-- [Shelby Agent Bridge](https://github.com/web3blind/shelby-agent-bridge) — SDK-based MCP bridge that lets AI agents use Shelby as a storage backend for workflow artifacts such as reports, transcripts, screenshots, and generated files.
+- [Shelby Agent Bridge](https://github.com/web3blind/shelby-agent-bridge) — SDK-based MCP bridge that lets AI agents use Shelby as storage for workflow artifacts: reports, transcripts, screenshots, and generated files.
 - [GetDocs Skill](https://github.com/web3blind/getdocs-skill) — OpenClaw skill for downloading public documentation into Markdown, with `r.jina.ai` extraction and direct-fetch fallback.
 - [Coding Skill](https://github.com/web3blind/coding-skill) — project-oriented OpenClaw workflow for clarification, planning, implementation, and review.
 - [Safe Update Skill](https://github.com/web3blind/safe-update-skill) — low-risk update workflow with prechecks, backups, release-impact analysis, postchecks, auto-rollback, and cleanup.
 - [Dashboard Skill](https://github.com/web3blind/dashboard-skill) — accessible HTML dashboards with JSON import/export and localStorage.
-- [Ambient Skill](https://github.com/web3blind/ambient-skill) — practical Ambient AI workflow that returns an answer together with provenance metadata such as Merkle roots and validator/auction context.
+- [Ambient Skill](https://github.com/web3blind/ambient-skill) — practical Ambient AI workflow that returns an answer with provenance metadata such as Merkle roots and validator/auction context.
 - [Song Skill](https://github.com/web3blind/song-skill) — shareable OpenClaw skill skeleton for generating songs through a Suno-compatible API.
 
 ## Telegram bots and automation
@@ -54,10 +54,10 @@ I care about software that works in the real world: accessible with screen reade
 ## What I am interested in
 
 - Accessibility-first AI tools.
-- Screen-reader-friendly developer workflows.
-- AI agents that can use APIs, MCP tools, storage, and real task artifacts.
-- Telegram bots as practical user interfaces for automation.
-- Web3 applications where UX and accessibility are not ignored.
+- Developer workflows that work well with screen readers.
+- AI agents that use APIs, MCP tools, storage, and real task artifacts.
+- Telegram bots as practical interfaces for automation.
+- Web3 apps where UX and accessibility are part of the work, not decoration.
 
 ## Accessibility note
 
